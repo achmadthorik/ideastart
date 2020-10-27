@@ -65,7 +65,7 @@
                     <li><a href="#cara_investasi">Cara Investasi</a></li>
                     <li><a href="#pertanyaan">Pertanyaan</a></li>
                     <li><a href="#tentang_kami">Tentang Kami</a></li>
-                    <li><a href="#daftarkan_bisnis ">Daftarkan Bisnis</a></li>
+                    <li><a href="./login.php ">Daftarkan Bisnis</a></li>
                     <!-- <li class="drop-down"><a href="">Drop Down</a>
       <ul>
         <li><a href="#">Drop Down 1</a></li>
